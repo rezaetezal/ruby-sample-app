@@ -1,7 +1,7 @@
-require "sinatra"
+require 'sinatra'
 
 set :port, 8080
 
-get "/" do
-  "Hello world!"
+get '/' do
+  'Hello world!'
 end
