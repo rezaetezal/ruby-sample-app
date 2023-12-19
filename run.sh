@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ruby app.rb
+bundle exec puma

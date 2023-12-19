@@ -1,5 +1,6 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "pg"
-gem "sinatra"
-gem "webrick"
+# gem "pg"
+# gem 'webrick'
+gem 'puma'
+gem 'sinatra'
